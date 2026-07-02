@@ -13,6 +13,7 @@
 git clone https://github.com/Timofey-Maz/CSV.git
 cd CSV
 ```
+- Установите необходимые библиотеки;
 - Запустите основной скрипт:
 ``` bash
 python UIRS.py
